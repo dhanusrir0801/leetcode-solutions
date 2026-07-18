@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
