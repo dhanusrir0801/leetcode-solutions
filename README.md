@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0507-perfect-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Design
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
