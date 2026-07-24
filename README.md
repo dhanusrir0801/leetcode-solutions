@@ -72,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 ## Sorting
@@ -83,6 +84,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
