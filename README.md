@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -68,11 +69,13 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 ## Sorting
