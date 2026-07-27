@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -81,6 +82,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0198-house-robber) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
