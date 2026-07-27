@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -52,6 +53,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0169-majority-element) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1189-maximum-number-of-balloons](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -91,6 +94,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -105,4 +109,8 @@
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
