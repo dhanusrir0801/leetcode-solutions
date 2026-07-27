@@ -19,6 +19,7 @@
 | [1920-build-array-from-permutation](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2574-left-and-right-sum-differences](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Design
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
 | ------- |
