@@ -46,6 +46,7 @@
 | [1512-number-of-good-pairs](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3783-mirror-distance-of-an-integer](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Design
 |  |
 | ------- |
