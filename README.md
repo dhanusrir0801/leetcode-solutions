@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0575-distribute-candies](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0704-binary-search) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -74,6 +75,7 @@
 | [0217-contains-duplicate](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [1189-maximum-number-of-balloons](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
