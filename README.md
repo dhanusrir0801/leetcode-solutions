@@ -18,6 +18,7 @@
 | [0414-third-maximum-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0575-distribute-candies](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0704-binary-search) |
+| [0905-sort-array-by-parity](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -120,6 +121,7 @@
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Two Pointers
@@ -130,6 +132,7 @@
 | [0283-move-zeroes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
