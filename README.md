@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0198-house-robber) |
@@ -143,6 +144,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0190-reverse-bits) |
@@ -150,6 +152,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Recursion
