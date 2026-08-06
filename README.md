@@ -49,6 +49,7 @@
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0976-largest-perimeter-triangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -167,6 +168,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
