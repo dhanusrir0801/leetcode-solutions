@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 <!---LeetCode Topics End-->
