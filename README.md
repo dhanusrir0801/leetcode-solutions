@@ -51,6 +51,7 @@
 | [0507-perfect-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0976-largest-perimeter-triangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
