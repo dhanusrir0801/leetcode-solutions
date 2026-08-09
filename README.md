@@ -20,6 +20,7 @@
 | [0303-range-sum-query-immutable](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0566-reshape-the-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1603-design-parking-system](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Counting
@@ -102,6 +104,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1672-richest-customer-wealth](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
