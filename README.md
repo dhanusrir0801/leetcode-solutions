@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -123,6 +125,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0290-word-pattern](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0392-is-subsequence) |
