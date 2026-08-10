@@ -23,6 +23,7 @@
 | [0566-reshape-the-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0704-binary-search) |
+| [0806-number-of-lines-to-write-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0867-transpose-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -133,6 +134,7 @@
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0806-number-of-lines-to-write-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1108-defanging-an-ip-address](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
