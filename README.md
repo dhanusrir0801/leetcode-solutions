@@ -60,6 +60,7 @@
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
