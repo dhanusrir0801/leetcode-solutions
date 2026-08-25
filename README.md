@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0704-binary-search) |
