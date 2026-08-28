@@ -73,6 +73,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -144,6 +145,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
