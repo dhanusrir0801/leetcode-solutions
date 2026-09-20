@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
@@ -301,4 +303,8 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0401-binary-watch) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
