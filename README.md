@@ -53,6 +53,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -67,6 +68,7 @@
 | [0342-power-of-four](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
