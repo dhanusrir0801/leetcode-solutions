@@ -53,6 +53,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0704-binary-search) |
 ## Math
@@ -316,4 +317,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0796-rotate-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
