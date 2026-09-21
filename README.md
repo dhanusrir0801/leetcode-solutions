@@ -352,4 +352,8 @@
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
