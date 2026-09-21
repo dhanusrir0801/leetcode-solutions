@@ -251,6 +251,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -260,6 +261,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Sliding Window
 |  |
@@ -276,6 +278,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Counting Sort
 |  |
@@ -344,4 +347,8 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
