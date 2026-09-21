@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0054-spiral-matrix) |
@@ -164,6 +165,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -365,4 +367,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
