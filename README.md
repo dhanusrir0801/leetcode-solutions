@@ -252,6 +252,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Binary Search Tree
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Sliding Window
@@ -279,6 +281,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Counting Sort
@@ -356,4 +359,8 @@
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0610-triangle-judgement) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
