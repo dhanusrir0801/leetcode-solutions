@@ -69,6 +69,7 @@
 | [0231-power-of-two](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
