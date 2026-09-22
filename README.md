@@ -47,6 +47,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -109,6 +110,7 @@
 | [0867-transpose-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Counting
 |  |
 | ------- |
