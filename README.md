@@ -72,6 +72,7 @@
 | [0292-nim-game](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0441-arranging-coins) |
@@ -235,6 +236,7 @@
 | [0072-edit-distance](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0198-house-robber) |
+| [0357-count-numbers-with-unique-digits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0552-student-attendance-record-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0552-student-attendance-record-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -333,6 +335,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Newton's Method
 |  |
