@@ -268,6 +268,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Binary Search Tree
@@ -279,6 +280,7 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Sliding Window
@@ -297,6 +299,7 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Counting Sort
@@ -382,6 +385,7 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 ## Trie
 |  |
 | ------- |
