@@ -179,6 +179,7 @@
 | [0290-word-pattern](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
@@ -254,6 +255,7 @@
 | [0231-power-of-two](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0394-decode-string) |
 ## Linked List
 |  |
 | ------- |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0394-decode-string) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Breadth-First Search
 |  |
