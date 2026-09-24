@@ -40,6 +40,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -220,6 +221,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -238,6 +240,7 @@
 | [0680-valid-palindrome-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
