@@ -31,6 +31,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
