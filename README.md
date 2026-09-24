@@ -41,6 +41,7 @@
 | [0867-transpose-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0941-valid-mountain-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1122-relative-sort-array) |
