@@ -28,6 +28,7 @@
 | [0506-relative-ranks](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1189-maximum-number-of-balloons](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -136,6 +138,7 @@
 | [0290-word-pattern](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0804-unique-morse-code-words](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1122-relative-sort-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -209,6 +212,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -300,6 +304,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
