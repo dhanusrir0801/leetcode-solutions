@@ -299,6 +299,7 @@
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -315,6 +316,7 @@
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Sliding Window
 |  |
@@ -337,6 +339,7 @@
 | [0563-binary-tree-tilt](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0872-leaf-similar-trees) |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Counting Sort
 |  |
