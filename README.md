@@ -214,6 +214,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -421,6 +422,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0394-decode-string) |
+| [1021-remove-outermost-parentheses](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Breadth-First Search
 |  |
@@ -445,4 +447,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0506-relative-ranks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
