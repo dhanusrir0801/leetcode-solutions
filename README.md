@@ -39,6 +39,7 @@
 | [0832-flipping-an-image](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0941-valid-mountain-array) |
@@ -92,6 +93,7 @@
 | [0509-fibonacci-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -167,6 +169,7 @@
 | [0766-toeplitz-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [1572-matrix-diagonal-sum](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Bit Manipulation
@@ -361,6 +364,7 @@
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 ## Polygons
 |  |
 | ------- |
