@@ -38,6 +38,7 @@
 | [0812-largest-triangle-area](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -255,6 +256,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1323-maximum-69-number) |
