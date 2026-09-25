@@ -215,6 +215,7 @@
 | [0804-unique-morse-code-words](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0824-goat-latin) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
