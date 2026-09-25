@@ -47,6 +47,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -150,6 +151,7 @@
 | [0645-set-mismatch](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -211,6 +213,7 @@
 | [0804-unique-morse-code-words](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
