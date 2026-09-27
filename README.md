@@ -362,6 +362,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
@@ -445,6 +446,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -474,9 +476,14 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0841-keys-and-rooms](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0705-design-hashset) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
