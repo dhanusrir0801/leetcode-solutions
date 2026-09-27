@@ -32,6 +32,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -152,6 +154,7 @@
 | [0575-distribute-candies](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0804-unique-morse-code-words](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0846-hand-of-straights](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -312,6 +315,7 @@
 | [0143-reorder-list](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
@@ -471,4 +475,8 @@
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
