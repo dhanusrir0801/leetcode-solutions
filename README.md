@@ -32,6 +32,7 @@
 | [0575-distribute-candies](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -125,6 +126,7 @@
 | [0412-fizz-buzz](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1603-design-parking-system) |
@@ -444,6 +446,7 @@
 | [0234-palindrome-linked-list](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Breadth-First Search
