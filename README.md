@@ -26,6 +26,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0414-third-maximum-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0575-distribute-candies) |
@@ -151,6 +152,7 @@
 | [0268-missing-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -441,6 +443,7 @@
 | [0143-reorder-list](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Breadth-First Search
@@ -486,4 +489,8 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
