@@ -210,6 +210,7 @@
 | [0125-valid-palindrome](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -325,6 +326,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
@@ -342,6 +344,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
@@ -367,6 +370,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
@@ -421,6 +425,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/dhanusrir0801/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Newton's Method
